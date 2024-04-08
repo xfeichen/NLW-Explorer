@@ -15,5 +15,5 @@ Projeto construído do evento Next Leve Week da Rocketseat.
 
 ## Contato
 
-matheus.dom@pptgo.com.br
+matheus.fei.chen@outlook.com
 
